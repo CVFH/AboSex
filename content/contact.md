@@ -4,13 +4,16 @@ layout: contact
 title: Contacto
 ---
 
-¡Segunios en las redes sociales!
+:link: ¡Segunios en las redes sociales!
 
-:link:
+### Facebook 
 
-| Facebook  | https://www.facebook.com/abogasex/            |
+[/abogasex]("https://www.facebook.com/abogasex/")
 
-| Twitter   | https://twitter.com/abosex_ar                 |
+### Twitter
 
-| Instagram | https://www.instagram.com/abosex_ar/          |
+[/abosex_ar]("https://twitter.com/abosex_ar") 
 
+### Instagram  
+
+[/abosex_ar]("https://www.instagram.com/abosex_ar/") 

@@ -15,6 +15,4 @@ Si bien es notorio un incremento en la producción de normas jurídicas que invo
 
 En este contexto conflictivo surge nuestro colectivo, propiciando y resaltando la función crítica creativa del derecho en una dimensión activa.
 
-
-
-[Nuestra agenda](/services/) se propone:
+> :question: ¿Querés saber más? Conocé [nuestra agenda](/services/) de trabajo o visitá nuestro [blog](/post/).
